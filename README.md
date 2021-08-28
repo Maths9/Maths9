@@ -3,8 +3,8 @@
 <h2> Ifpe Campus Garanhuns </h2>
 <div>
   <a href="https://github.com/Maths9">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Maths9&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maths9&&layout=compact&hide=shell&theme=blue-green"/>
+  <img height="180em"    src="https://github-readme-stats.vercel.app/api?username=Maths9&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maths9&&layout=compact&hide=shell&theme=blue-green"/>
 
 </div>
  <br>
