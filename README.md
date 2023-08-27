@@ -1,6 +1,6 @@
 
 <h1> Hi! My name is Matheus. </h1>
-<h2> Ifpe Campus Garanhuns </h2>
+<h2> Computação UPE </h2>
 <div>
   <a href="https://github.com/Maths9">
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=Maths9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
